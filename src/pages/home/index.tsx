@@ -58,8 +58,7 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+            Welcome to my full-stack developer portfolio! Here, I proudly present a compilation of my diverse projects and tech expertise. As a passionate developer, I thrive on crafting impactful solutions for various challenges.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
